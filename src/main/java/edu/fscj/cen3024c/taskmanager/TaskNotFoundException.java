@@ -1,4 +1,4 @@
-package edu.fscj.cen3024c.taskmanager.exceptions;
+package edu.fscj.cen3024c.taskmanager;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
